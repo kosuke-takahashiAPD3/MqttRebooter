@@ -38,7 +38,7 @@ Edit `MqttRebooter.exe.config` (or `App.config` before build). See [Configuratio
 
 ### License
 
-MIT License - see [LICENSE](LICENSE) for details.
+MIT License
 
 ---
 
@@ -136,4 +136,4 @@ MqttRebooter\bin\Release\MqttRebooter.exe
 
 ### ライセンス
 
-MIT License で公開しています。詳細は [LICENSE](LICENSE) を参照してください。
+MIT License
